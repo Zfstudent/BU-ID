@@ -1,0 +1,26 @@
+<annotation>
+	<folder>benign_malignant</folder>
+	<filename>88.png</filename>
+	<path>F:\MedData\数据集3\benign_malignant\88.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>777</width>
+		<height>580</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>benign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>157</xmin>
+			<ymin>94</ymin>
+			<xmax>351</xmax>
+			<ymax>275</ymax>
+		</bndbox>
+	</object>
+</annotation>
